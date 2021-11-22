@@ -15,7 +15,7 @@
                                 <div class="slider-text">
                                     <h2>our new range of</h2>
                                     <h1>woman</h1>
-                                    <h5>for less than $199.00</h5>
+                                    <h5>for less than $299.00</h5>
                                 </div>
                             </div>
                         </div>
